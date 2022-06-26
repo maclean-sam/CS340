@@ -1,1 +1,12 @@
-# CS340
+## CS-340: Client/Server Development
+### Sam Maclean
+### June 26, 2022
+
+##### How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+Programs become maintainable, readable, and adaptable by adhering to the requirements for basic user functionality. A program should be able to create, read, update, and delete as a basis to make data access easy and efficient. Working on the dashboard widgets gave me user friendly visual components for the data that could be interacted with which gives the users an easy way to interpret data. In the future, I will use the CRUD Python module for other programs that involve a collection of data.
+
+##### How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+Approaching a problem is a computer scientist involves continously checking the requirements for the project to make sure the work lines up with what is being asked for. It also involves reading documentation on Python modules and Mongodb methods to solidify understanding of the material. This project involved more visual components than I am used to and I will use the techniques that I used in this project in the future like running the program after small changes to ensure the program is still working. If many lines of code are changed and then the program does not run as intended, it would be much more difficult to discover where the problem lies. 
+
+##### What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+Computer scientists work to create efficient user interfaces, programs that access data, and other technical tasks to complete projects. My work on this project would help a company do better by providing them with a clean user interface/dashboard that they can both to improve their companies success and brighten their outlook for the future.
